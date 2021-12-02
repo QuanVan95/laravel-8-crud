@@ -50,7 +50,7 @@ Step 7: Run application `php artisan serve --port=8000`
 -----
 **Set up Postman**  
 Option 1: Get collection json file in the source code\
-`postman/mini_aspire.postman_collection.json`\
+`postman/mini_aspire.postman_collection.json`
 
 Option 2: Import from this link
 `https://www.postman.com/collections/a773853fbc726aa67460`
