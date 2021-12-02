@@ -37,7 +37,7 @@ Step 4: Migrate database `php artisan migrate`
 
 Step 5: Install passport package `php artisan passport:install`
 
-- Create a personal access client `artisan passport:client --personal`
+- Create a personal access client `php artisan passport:client --personal`
 
 Step 6: Create test user `php artisan db:seed` \
 User info: `miniaspire@gmail.com` password `123456`
